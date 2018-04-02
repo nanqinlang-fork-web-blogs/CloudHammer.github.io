@@ -47,7 +47,8 @@ a {
   display: inline-block;
   color: #fff;
   text-decoration: none;
-  font: 400 18px/2.8 "Verdana", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", sans-serif;
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;
+  font-size: 20px;
   padding: 0 10px;
   border-bottom: 2px solid transparent;
 }
@@ -76,15 +77,16 @@ a {
 }
 
 .header-home {
-  height: 500px;
+  height: 750px;
 }
 .content {
-  padding: 48px 0;
+  padding: 64px 0;
 }
 
 footer {
   background:#f8f9fa;
   text-align: center;
+  padding: 48px 0;
 }
 
 footer >**> a {
