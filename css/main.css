@@ -81,3 +81,12 @@ a {
 .content {
   padding: 48px 0;
 }
+
+footer {
+  background:#f8f9fa;
+  text-align: center;
+}
+
+footer >**> a {
+  text-decoration: none;
+}
