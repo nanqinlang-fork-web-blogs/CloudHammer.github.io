@@ -21,3 +21,6 @@ CloudHammer 相信，开源对大家都有好处。通过开放和免费提供�
 ## 支持
 
 我们相信，健康的开源生态对于所有人可持续的开放源代码很重要。
+
+<div class="github-card" data-github="CloudHammer" data-width="400" data-height="317" data-theme="medium"></div>
+<script src="https://cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
