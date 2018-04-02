@@ -7,7 +7,7 @@
  */
 
 .yue {
-  font: 400 20px/1.62 "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", sans-serif;
+  font: 400 20px/1.62 -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;
   color: #444e61;
 }
 
@@ -30,7 +30,7 @@
 .yue h4,
 .yue h5,
 .yue h6 {
-  font-family: "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", "SimSun", sans-serif;
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;
   color: rgb(61, 70, 87);
 }
 
