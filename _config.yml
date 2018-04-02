@@ -2,7 +2,7 @@ name: CloudHammer Open Source
 timezone: Asia/Shanghai
 markdown: kramdown
 highlight: null
-permalink: /:year-:month-:day.html
+permalink: /:title.html
 
 exclude:
   - README.md

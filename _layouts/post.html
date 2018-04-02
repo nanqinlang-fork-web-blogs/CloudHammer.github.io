@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="zh">
+
 <head>
   <title>{{ page.title }} | {{ site.name }}</title>
   {% include head.html %}
 </head>
+
 <body>
-  <header class="header" role="banner"{% if page.cover %} style="background-image:url({{ page.cover }})"{% endif %}>
+  <header class="header" role="banner" {% if page.cover %} style="background-image:url({{ page.cover }})" {% endif %}>
     {% include header.html %}
     <div class="header-content">
       <div class="container yue">
@@ -20,4 +22,5 @@
   </div>
   {% include footer.html %}
 </body>
+
 </html>
