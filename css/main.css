@@ -88,6 +88,8 @@ footer {
   padding: 48px 0;
 }
 
-footer >**> a {
+footer >*> a {
+  color: #667189;
+  outline: 0;
   text-decoration: none;
 }
